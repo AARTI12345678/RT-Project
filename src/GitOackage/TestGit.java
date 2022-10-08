@@ -10,9 +10,10 @@ public class TestGit {
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\Dell\\Downloads\\chromedriver.exe");
 		//C:\Users\Dell\Downloads
 		//System.setProperty("webdriver.chrome.driver","C:\\Users\\Dell\\Downloads\\chromedriver_win32\\chromedriver.exe");
-				WebDriver driver=new ChromeDriver();
-				driver.get("https://chromedriver.chromium.org/downloads");
+				//WebDriver driver=new ChromeDriver();
+				//driver.get("https://chromedriver.chromium.org/downloads");
 				//driver.close();
+		System.out.println("Success");
 				
 			}
 
